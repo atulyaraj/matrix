@@ -1,0 +1,71 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.CellHeading{
+    width:200px;
+    height:50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: #edffec;
+    position: relative;
+    left:200px;
+}
+.text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #007580;
+    font-style: inherit;
+    position: relative;
+    top:20px;
+}
+footer{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+
+}
+.CellHeading2{
+    width:200px;
+    height:100px;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: #edffec;
+    position: relative;
+    left:20px;
+    bottom:80px;
+}
+.text1{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #007580;
+    font-style: inherit;
+    position: relative;
+    top:5px;
+}
+.texttable{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #007580;
+    font-style: inherit;
+    position: relative;
+    bottom:60px;
+}
+hr{
+    width:100%;
+    margin: 0px;
+    position: relative;
+    right:20px;
+}
+.btn{
+    background-color: DodgerBlue; /* Blue background */
+  border:none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  position: relative;
+  right:600px
+}
+.icon{
+    height: 50px;
+    width:50px;
+}
